@@ -1,5 +1,6 @@
 # Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms
 The following Algorithms used in this project:
+
 LQR
 
 Sliding Mode
