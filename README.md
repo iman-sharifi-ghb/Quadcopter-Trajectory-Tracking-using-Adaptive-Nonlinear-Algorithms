@@ -7,7 +7,6 @@ Email: iman.sharifi.edu@gmail.com
 
 We aim to control a quadcopter using the following algorithms:
 
-```
 1- [PID Control](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/tree/main/Project/1-PID%20Control%20Quadcopter)
 
 2- [Linear Quadratic Regulator (LQR)](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/tree/main/Project/2-LQR%20Control%20Quadcopter)
@@ -20,5 +19,4 @@ We aim to control a quadcopter using the following algorithms:
 
 6- [Model Reference Adaptive Control (MRAC)](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/tree/main/Project/6-MRAC%20Control%20Quadcopter)
 
-```
 You can access to the persian report in this [link](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/PersianReport.pdf).
