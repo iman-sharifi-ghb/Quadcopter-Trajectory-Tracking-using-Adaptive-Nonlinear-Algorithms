@@ -23,7 +23,7 @@ We aim to control a quadcopter using the following algorithms:
 you can see the step response of different methods in position control:
 
 Comparison of X:
-![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/x%20comparision.png)
+![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/x%20comparision.png){:height="350px" width="500px"}.
 
 Comparison of Y:
 ![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Y%20comparison.png)
