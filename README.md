@@ -27,25 +27,24 @@ Comparison of X:
 <img src="https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/x%20comparision.png" width="600" height="300">
 
 Comparison of Y:
-![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Y%20comparison.png)
+<img src="https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Y%20comparison.png" width="600" height="300">
 
 Comparison of Z:
-![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Z%20comparison.png)
-
+<img src="https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Z%20comparison.png" width="600" height="300">
 
 #### Model Refrence Adaptive Control (MRAC) method:
 
 X response
-![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/X%20MRAC.png)
+<img src="https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/X%20MRAC.png" width="600" height="300">
 
 Y response
-![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Y%20MRAC.png)
+<img src="https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Y%20MRAC.png" width="600" height="300">
 
 Z response
-![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Z%20MRAC.png)
+<img src="https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Z%20MRAC.png" width="600" height="300">
 
 Attitude Control
-![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Attitude%20MRAC.png)
+<img src="https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Attitude%20MRAC.png" width="600" height="300">
 
 You can access to the persian report in this [link](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/PersianReport.pdf).
 
