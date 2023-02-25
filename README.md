@@ -22,18 +22,28 @@ We aim to control a quadcopter using the following algorithms:
 #### Results
 you can see the step response of different methods in position control:
 
+Comparison of X:
 ![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/x%20comparision.png)
 
+Comparison of Y:
 ![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Y%20comparison.png)
 
+Comparison of Z:
 ![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Z%20comparison.png)
 
+
+#### Model Refrence Adaptive Control (MRAC) method:
+
+X response
 ![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/X%20MRAC.png)
 
+Y response
 ![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Y%20MRAC.png)
 
+Z response
 ![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Z%20MRAC.png)
 
+Attitude Control
 ![image](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Attitude%20MRAC.png)
 
 You can access to the persian report in this [link](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/PersianReport.pdf).
