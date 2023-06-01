@@ -1,11 +1,9 @@
 # Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms
-The following Algorithms used in this project:
+In this project, we aim to control a quadcopter using Linear, Nonlinear, and Adaptive algorithms. Then, we compare their performance in different scenarios and discuss the results.
 
 Creator: _Iman Sharifi_
 
 Email: iman.sharifi.edu@gmail.com
-
-We aim to control a quadcopter using the following algorithms:
 
 1- [PID Control](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/tree/main/Project/1-PID%20Control%20Quadcopter)
 
