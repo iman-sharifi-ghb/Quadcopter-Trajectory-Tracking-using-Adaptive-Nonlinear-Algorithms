@@ -1,4 +1,4 @@
-# 6-DoF-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms
+# 6-DoF-Robot-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms
 In this project, we aim to control a 6-Dof, 4-motor robot using Linear, Nonlinear, and Adaptive algorithms. Then, we compare their performance in different scenarios and discuss the results.
 
 Creator: _Iman Sharifi_
