@@ -1,5 +1,5 @@
-# Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms
-In this project, we aim to control a quadcopter using Linear, Nonlinear, and Adaptive algorithms. Then, we compare their performance in different scenarios and discuss the results.
+# 6-DoF-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms
+In this project, we aim to control a 6-Dof, 4-motor robot using Linear, Nonlinear, and Adaptive algorithms. Then, we compare their performance in different scenarios and discuss the results.
 
 Creator: _Iman Sharifi_
 
@@ -50,5 +50,5 @@ Attitude Control:
 
 <img src="https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/image/Attitude%20MRAC.png" width="600" height="300">
 
-You can access to the persian report in this [link](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/PersianReport.pdf).
+You can access the Persian report in this [link](https://github.com/98210184/Quadcopter-Trajectory-Tracking-using-Adaptive-Nonlinear-Algorithms/blob/main/PersianReport.pdf).
 
